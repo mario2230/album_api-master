@@ -99,7 +99,7 @@ class UserController
             "success" => true,
             "message" => "Login realizado com sucesso!",
             "user" => [
-                "id" => $user["id"],
+                "id" => $user["id_user"],
                 "email" => $user["email"],
                 "nome" => $user["nome"]
             ]
