@@ -14,10 +14,10 @@ Crie um arquivo chamado .env na raiz do projeto e cole as seguintes configuraç�
 
 Snippet de código
 # Database Configuration
-DB_HOST=localhost
+DB_HOST=seu_localhost
 DB_NAME=banco_memorias
 DB_USER=root
-DB_PASS=
+DB_PASS=sua_senha_1213213
 
 # JWT Security (Opcional se usar login)
 JWT_SECRET=sua_chave_secreta_super_foda_123
